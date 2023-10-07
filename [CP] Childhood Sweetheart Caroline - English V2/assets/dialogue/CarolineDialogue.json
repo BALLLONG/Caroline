@@ -63,18 +63,18 @@
 
 //4 hearts
      "Mon4": "ชั้นชอบดอกไม้สีเหลืองดอกใหญ่ที่บานริมถนนในฤดูใบไม้ผลิจริงๆ ชั้นตกแต่งห้องอาบแดดร่วมกับพวกเขาและเล่นดนตรีอันไพเราะ เพื่อสร้างบรรยากาศอันเงียบสงบในบ้านน้ำชาของชั้น. $1",
-     "Tue4": "This is for you[770][770][770][770][770]#$b#Pierre found these seed packets while cleaning up and the mice have chewed through the packaging. I wonder what kind of seeds they are? $1",
-     "Wed4": "Isn't it tiring to do farm work? You're so disgraced, come and let me tidy up your hair for $1",
-     "Thu4": "Would you like a cup of hot coffee?[395]$h#$e#I hope this will clear your mind $1",
-     "Sat4": "Pierre often comes home after getting drunk in the tavern recently, I can't do anything about it. $11#$e# It's all because of the Joja and it's been making him really upset. When he gets drunk, he can't control himself. $2#$b#No, it's all right! I am fine! $8",
-     "Sun4": "Marriage often makes a person give up many things... such as childhood dreams, long-term pursuits, and so on. $2#$e#I'm talking to you, you know? Make sure you and your significant other don't have any regrets in this life.",
+     "Tue4": "นี่สำหรับเธอ[347][347][347][347][347]#$b#ปีแอร์ พบซองเมล็ดพืชเหล่านี้ขณะทำความสะอาด และหนูก็เคี้ยวซองบรรจุภัณฑ์ อยากรู้ว่าจังว่าเป็นเมล็ดอะไร? $1",
+     "Wed4": "ทำฟาร์มมาไม่เหนื่อยเหรอ? เธอสกปรกมาก มาให้ชั้นสระผมให้ซะดีๆ$1",
+     "Thu4": "เธอต้องการกาแฟร้อนสักแก้วไหม[395]$h#$e#ชั้นหวังว่าสิ่งนี้จะทำให้เธอสบายใจ $1",
+     "Sat4": "ปิแอร์มักจะกลับบ้านหลังจากเมาในโรงเตี๊ยมเมื่อเร็ว ๆ นี้ ชั้นไม่สามารถทำอะไรกับมันได้ $11#$e# ทั้งหมดเป็นเพราะ โจจ้า และมันทำให้เขาอารมณ์เสียมาก เมื่อเขาเมาเขาจะควบคุมตัวเองไม่ได้ $2#$b#ไม่ ไม่เป็นไร! ชั้นสบายดี! $8",
+     "Sun4": "การแต่งงานมักทำให้คนๆ หนึ่งต้องละทิ้งหลายสิ่งหลายอย่าง... เช่น ความฝันในวัยเด็ก การแสวงหาระยะยาว และอื่นๆ $2#$e#ชั้นกำลังคุยกับเธอนะรู้ไหม? ทำให้แน่ใจว่าเธอและคนรักของเธอจะไม่เสียใจหลังจากแต่งงานแล้ว.",
 
-     "summer_Mon4": "I really love the colorful flowers of summer. Decorating them in my sunroom and pairing them with a lively music is the perfect atmosphere for a tea party. $1",
-     "fall_Mon4": "Are you going to take a dip in a hot spring? The feeling of brewing a pot of tea in the water and savoring it slowly is both healing and refreshing...#$b#Seriously, I just want to relax in the hot springs and enjoy a nice cup of tea. $2",
-     "winter_Mon4": "Even during winter, you are still busy $8#$b# Be careful not to slip and fall.",
+     "summer_Mon4": "ชั้นชอบดอกไม้หลากสีสันในฤดูร้อนมาก การตกแต่งห้องอาบแดดของชั้นและจับคู่กับดนตรีที่มีชีวิตชีวาเป็นบรรยากาศที่สมบูรณ์แบบสำหรับงานเลี้ยงน้ำชา. $1",
+     "fall_Mon4": "ไปแช่น้ำพุร้อนกันมั้ย? ความรู้สึกของการชงชาในน้ำและจิบชาช้าๆ เป็นทั้งความผ่อนคลายและสดชื่น...#$b#จริงๆ นะ ชั้นแค่อยากพักผ่อนในบ่อน้ำพุร้อนและเพลิดเพลินกับชาดีๆ สักแก้ว. $2",
+     "winter_Mon4": "แม้เป็นฤดูหนาวเธอก็ยังยุ่งอยู่ $8#$b# ระวังอย่าให้ลื่นล้มล่ะ.",
 
-     "summer_Sun4": "Do you regret that you studied hard for the exam, entered the company, and finally gave up all of this and came to this rural town to become a farmer? #$e#...Of course, this question is more about myself .$11",
-     "fall_Sun4": "If it was the past, I would still be wearing short skirts...",
+     "summer_Sun4": "เธอเสียใจไหมที่เธอเรียนหนักเพื่อสอบ เข้าบริษัท และสุดท้ายก็ยอมแพ้และมาที่เมืองชนบทแห่งนี้เพื่อเป็นชาวนา #$e#...แน่นอนว่าคำถามนี้เกี่ยวกับตัวชั้นมากกว่า.$11",
+     "fall_Sun4": "ถ้าเป็นเมื่อก่อนชั้นคงยังใส่กระโปรงสั้นอยู่...",
 
 //6 hearts
      "Mon6": "#$1 Caroline23#There's been this weird feeling I've been having lately that's made me start to question whether the life I'm living is real or not. $11",
