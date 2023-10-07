@@ -89,19 +89,19 @@
      "winter_Thu6": "แทบรอไม่ไหวแล้วที่จะขึ้นปีใหม่? #$e#ชั้นเชื่อว่าฟาร์มของเธอจะประสบความสำเร็จอย่างมาก. $h",
     
 //8 hearts
-     "Mon8": "Coffee for you[395]$h#$e#The new week has a refreshing start. $1",
-     "Wed8": "I don't know how to see you, but I feel very at ease... It's like returning to the afternoon when I returned to school after school. I always feel a warm current surging deep in my heart...",
-     "Thu8": "Don't you like Abigail? Abigail will be jealous if you say you like me here—",
-     "Fri8": "Every time I think of you and our past, my memories become chaotic... Am I just getting old? $2#$e#Oh, come on, you sweet talker.<$4",
-     "Sun8": "Hey sweetie, how's your day going? *giggles* I made something for you, you can have it. [613 398 634]^Hey cutie, how's your day going? *giggles* I made something for you, you can have it. [613 398 634]",
+     "Mon8": "นี่ กาแฟของเธอ [395]$h#$e#สัปดาห์ใหม่เริ่มแล้วสินะ $1",
+     "Wed8": "ไม่คิดว่าจะเจอเธอที่นี้ แต่ชั้นชอบนะ รู้สึกเหมือนว่า หัวใจชั้นอบอุ่นเมื่ออยู่ใกล้ๆเธอ",
+     "Thu8": "เธอไม่ชอบอบิเกลหรอ? อบิเกลน่าจะอิจฉานะ ถ้าคุณบอกชอบชั้นที่นี้--",
+     "Fri8": "ทุกครั้งที่คิดถึงเธอ หัวใจของชั้นก็ว้าวุ่นเลยหละ $2#$e#พูดจาน่ารักจังนะ.<$4",
+     "Sun8": "เฮ้ ที่รัก วันนี้เป็นยังไงบ้าง? *หัวเราะคิกคัก* ฉันมีอะไรจะให้ด้วย [613 398 634]^เฮ้ ที่รัก วันนี้เป็นยังไงบ้าง? *หัวเราะคิกคัก* ฉันมีอะไรจะให้ด้วย [613 398 634]",
 
 //10 hearts
-     "Mon10": "I've been having dreams about us lately... #$e# What's in the dream? That's a secret!",
-     "Tue10": "(Hmm - I agreed in the heat of the moment, what was that young man thinking? Was he trying to play a joke on me?)^(Hmm - I agreed in the heat of the moment, what was that young woman thinking? Was she trying to play a joke on me?) $11",
-     "Wed10": "(Caroline, don't forget, you can't let your true emotions show... you have a family waiting for you at home to make dinner!)$11",
-     "Thu10": "You are so cute! Have you not given up yet? I am not the one you should pursue.",
-     "Sat10": "I'm a bit overwhelmed with emotion...but... $2",
-     "Sun10": "(Calm down...Caroline, he's not looking for a relationship... keep things casual and enjoy yourself.)$2^(Calm down...Caroline, she's not looking for a relationship... keep things casual and enjoy yourself.)$2",
+     "Mon10": "ช่วงนี้ชั้นฝันถึงเรื่องของเรา...#$e# ฝันว่าอะไรงั้นหรอ? นั่นเป็นความลับ!",
+     "Tue10": "(อืมม เธอคิดจะทำอะไร เธอจะเล่นตลกอะไร)^(อืมม เธอคิดจะทำอะไร เธอจะเล่นตลกอะไร) $11",
+     "Wed10": "(แคโรไลน์,ใจเย็น ยังมีครอบครัวรอกินข้าวอยู่ที่บ้าน)$11",
+     "Thu10": "คุณน่ารักมากเลยนะ คุณยังไม่ยอมแพ้อีกหรอ? ชั้นไม่ใช่คนที่คุณคิดว่าใช่หรอกนะ",
+     "Sat10": "ชั้นรู้สึกตื้นตันใจนิดหน่อย...แต่...$2",
+     "Sun10": "(ใจเย็น แคโรไลน์ เธอไม่ได้คิดเรื่องความสัมพันธ์หรอก ปล่อยใจให้สบาย และสนุกกับตัวเอง)$2^(ใจเย็น แคโรไลน์ เธอไม่ได้คิดเรื่องความสัมพันธ์หรอก ปล่อยใจให้สบาย และสนุกกับตัวเอง)$2",
 
 //event
 "Event_naga1": "อะไรนะ? $2#$b#...$11#$b#ขอโทษนะ แต่ว่าฉันจำไม่ได้จริงๆ เธอช่วยบอกฉันได้มั้ย? $2",
