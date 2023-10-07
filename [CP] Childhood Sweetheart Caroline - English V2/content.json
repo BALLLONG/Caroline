@@ -250,6 +250,11 @@
         "marriage_spring_18": "630 Beach 25 36 2 \"Strings\\schedules\\Caroline:Sat.005\"/1200 BusStop -1 23 3",
         },
     },
+    {
+        "Action": "Load",
+        "Target": "Strings/NPCNames",
+        "FromFile": "assets/NPCNames.json",
+    },
     
     {
     "Action": "EditData",
