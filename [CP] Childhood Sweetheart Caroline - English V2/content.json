@@ -1,6 +1,14 @@
 {
 	"Format": "1.28.3",
     "DynamicTokens": [
+        {
+            "Action": "Load",
+            "Target": "Strings/animationDescriptions, Strings/Buildings, Strings/BundleNames, Strings/Characters, Strings/credits, Strings/EnchantmentNames, Strings/Events, Strings/FarmAnimals, Strings/Lexicon, Strings/Notes, Strings/NPCNames, Strings/Objects, Strings/Quests, Strings/SpecialOrderStrings, Strings/SpeechBubbles, Strings/StringsFromMaps, Strings/UI",
+            "FromFile": "assets/Content/{{Target}}.json",
+            "When": {
+                "Language": "th"
+            }
+        },
 
         // Standard Dynamic Tokens
 
