@@ -1,0 +1,12 @@
+{
+   "Name": "ChildhoodSweetheart Caroline - English V2",
+   "Author": "Solariaze",
+   "Description": "Caroline was once your childhood best friend - Originally made by sorkrimp.",
+   "Version": "1.0.1",
+   "UniqueID": "Solariaze.ChildhoodSweetheartCarolineEnglish",
+   "UpdateKeys": ["Nexus:???"],
+   "ContentPackFor": {
+       "UniqueID": "Pathoschild.ContentPatcher",
+       "MinimumVersion": "1.29.1",
+    },
+}
