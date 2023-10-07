@@ -104,14 +104,14 @@
      "Sun10": "(Calm down...Caroline, he's not looking for a relationship... keep things casual and enjoy yourself.)$2^(Calm down...Caroline, she's not looking for a relationship... keep things casual and enjoy yourself.)$2",
 
 //event
-"Event_naga1": "What things? $2#$b#...$11#$b#Sorry, I really don't remember what it was. Can you tell me? $2",
-     "Event_naga2": "Confession? $11#$b#Wait...$2#$b#...$2#$b#Wait a minute... you're not making fun of me with that book that has the same name as me and the female protagonist, are you? $3#$b#% I can't deny that the book is mine, and I secretly placed it on her bookshelf where she often goes recently.",
+"Event_naga1": "อะไรนะ? $2#$b#...$11#$b#ขอโทษนะ แต่ว่าฉันจำไม่ได้จริงๆ เธอช่วยบอกฉันได้มั้ย? $2",
+     "Event_naga2": "คำสารภาพหรอ? $11#$b#เเดี๋ยวนะ...$2#$b#...$2#$b#เดี๋ยวก่อน... เธอไม่ได้ล้อชั้นกับหนังสือเล่มนั้นที่นางเอกกับชั้นมีชื่อเดียวกันใช่มั้ย$3#$b#% ชั้นไม่สามารถปฏิเสธได้ว่าหนังสือเล่มนี้ไม่ใช่ของชั้น และชั้นแอบวางไว้บนชั้นหนังสือของเธอน่ะ~~.",
 
-     "NPC.cs.3956": "What does this mean? Sweetie? $3^What does this mean? Cutie? $3",
-     "NPC.cs.3957": "Do you know what it means to give this flower? $2#$b#Put it away before anyone sees it$11",
-     "NPC.cs.3958": "Put it away! Don't let others see.$11#$b# Are you trying to tease me on purpose? $3",
-     "NPC.cs.3959": "Pierre told me that you give this bouquet for someone special, but I'm sure this flower was not meant for me, right? $3",
-     "NPC.cs.3960": "Wow! What a beautiful flower! $5#$b#Wait...#$b#This isn't for me, is it? You're kidding, right? $2#$b#You can't just act on impulse.$3",
+     "NPC.cs.3956": "สิ่งนี้หมายความว่า? ที่รัก? $3^นี่หมายความว่าอะไร? คนน่ารัก? $3",
+     "NPC.cs.3957": "เธอรู้ไหมว่าการให้ดอกไม้นี้หมายความว่าอย่างไร? $2#$b#เก็บมันออกไปก่อนที่จะมีใครเห็น$11",
+     "NPC.cs.3958": "เก็บมันไป! อย่าให้คนอื่นเห็น$11#$b# นี่เธอกำลังพยายามแกล้งชั้นใช่ไหม? $3",
+     "NPC.cs.3959": "ปิแอร์บอกชั้นว่าเธอมอบช่อดอกไม้นี้ให้กับคนพิเศษ ดอกไม้ดอกนี้ไม่มีความหมายที่พิเศษสำหรับชั้นใช่ไหม? $3",
+     "NPC.cs.3960": "ว้าว! ช่างเป็นดอกไม้ที่สวยงามจริงๆ! $5#$b#เดี๋ยวก่อน...#$b#นี่ไม่ใช่สำหรับชั้นใช่ไหม? เธอล้อเล่นใช่ไหม? $2#$b#เธอไม่สามารถทำตามแรงกระตุ้นได้.$3",
      "NPC.cs.3961": "Pierre told me that you have a sweetheart who put this bouquet on the shelf, but he must not be referring to me? $3",
      "NPC.cs.3962": "Do you know what it means to give this flower? This is not a good joke, you know? $2#$b#What? You're serious? $2#$b#...Your ...Childhood Promise?$11#$b#What is that? I don't remember anything. $2#$b#(Ah, he looks like he's about to cry)^(Ah, he looks like she's about to cry) $11#$b#...Okay, okay, I promise... You know I really can't resist you.<$5 ",
      "NPC.cs.3963": "Wow! What a beautiful flower! $5#$b#Wait a minute...#$b#This isn't for me, is it? $4#$b#Oh, but... $2#$b# ...Your ...Childhood Promise? $11#$b#What is that? I don't remember anything.$11#$b#...(Ah, he looks like he's about to cry)^(Ah, he looks like she's about to cry) $11#$b#...Okay, okay, you know I really resist you.<$5" ,
